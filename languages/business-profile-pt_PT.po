@@ -24,39 +24,39 @@ msgstr ""
 
 #: business-profile.php:110
 msgid "View the help documentation for Business Profile"
-msgstr "Ver documentação de ajuda"
+msgstr "Sehen Sie sich die Hilfsdokumentation im Unternehmensprofil an"
 
 #: business-profile.php:110
 msgid "Help"
-msgstr "Ajuda"
+msgstr "Hilfe"
 
 #: includes/Integrations.class.php:107
 msgid "Book a table"
-msgstr "Reservar Mesa"
+msgstr "Reservierung "
 
 #: includes/Integrations.class.php:127 includes/Integrations.class.php:131
 msgid "Show book a table link"
-msgstr "Mostrar link para reserva de mesa"
+msgstr "Zeige den Reservierungslink an"
 
 #: includes/Settings.class.php:86 includes/Settings.class.php:87
 msgid "Business Profile"
-msgstr "Business Profile"
+msgstr "Unternehmensprofil"
 
 #: includes/Settings.class.php:98
 msgid "Search Engine Optimization"
-msgstr "Optimização para motores de busca"
+msgstr "Suchmaschienenoptimierung"
 
 #: includes/Settings.class.php:108
 msgid "Schema Type"
-msgstr "Tipo de Organização"
+msgstr "Schema Typ"
 
 #: includes/Settings.class.php:109
 msgid ""
 "Select the option that best describes your business to improve how search "
 "engines understand your website"
 msgstr ""
-"Seleccione a opção que melhor descreve o seu negócio para melhorar a forma como "
-"os motores de busca interpretam o seu website"
+"Wähle eine Option aus die am Besten dein Unternehmen beschreibt"
+"Suchmaschienen verstehen deine Webseite"
 
 #: includes/Settings.class.php:152
 msgid "Contact Information"
